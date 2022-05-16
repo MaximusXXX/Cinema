@@ -7,7 +7,7 @@ package TelasSISNema;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class ConsultarPremiacaoSemSucesso extends javax.swing.JFrame {
 
