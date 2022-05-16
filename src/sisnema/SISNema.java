@@ -9,7 +9,7 @@ import TelasSISNema.TelaInicial;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class SISNema {
 
