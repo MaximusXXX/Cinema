@@ -7,7 +7,7 @@ package TelasSISNema;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class CadastrarGenero extends javax.swing.JFrame {
 
