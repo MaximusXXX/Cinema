@@ -7,7 +7,7 @@ package TelasSISNema;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class TelaInicialConsultas extends javax.swing.JFrame {
 
