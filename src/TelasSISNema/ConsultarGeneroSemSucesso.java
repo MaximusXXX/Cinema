@@ -7,7 +7,7 @@ package TelasSISNema;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class ConsultarGeneroSemSucesso extends javax.swing.JFrame {
 
