@@ -9,7 +9,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class CadastrarFilme extends javax.swing.JFrame {
     DefaultListModel ListaAtor = new DefaultListModel();
