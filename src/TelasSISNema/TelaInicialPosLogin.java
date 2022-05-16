@@ -7,7 +7,7 @@ package TelasSISNema;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class TelaInicialPosLogin extends javax.swing.JFrame {
 
