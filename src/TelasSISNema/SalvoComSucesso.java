@@ -7,7 +7,7 @@ package TelasSISNema;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class SalvoComSucesso extends javax.swing.JFrame {
 
