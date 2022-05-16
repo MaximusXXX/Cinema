@@ -7,7 +7,8 @@ package TelasSISNema;
 
 /**
  *
- * @author garci
+ * @author josiel
+ 
  */
 public class TelaInicialAlteraçoes extends javax.swing.JFrame {
 
