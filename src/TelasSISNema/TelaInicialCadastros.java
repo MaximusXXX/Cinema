@@ -7,7 +7,7 @@ package TelasSISNema;
 
 /**
  *
- * @author garci
+ * @author josiel
  */
 public class TelaInicialCadastros extends javax.swing.JFrame {
 
